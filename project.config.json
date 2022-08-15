@@ -1,0 +1,22 @@
+{
+    "URL_LOAD_VIDEO": "./Files/Videos/products_in_line.mp4",
+    "WEIGHT_NAME": "./Files/configs/tiny_13_07_2022.weights",
+    "CONF_NAME": "./Files/configs/tiny_13_07_2022.cfg",
+    "CLASSES_NAMES": "./Files/configs/tiny_13_07_2022.txt",
+    "CORLOR": [
+        51,
+        255,
+        102
+    ],
+    "LEFT_REGION": 220,
+    "RIGHT_REGION": 740,
+    "TOP_REGION": 55,
+    "BOTTOM_REGION": 300,
+    "COPYRIGHT": "Count Products",
+    "COPYRIGHT_COLOR": [
+        0,
+        0,
+        0
+    ],
+    "COPYRIGHT_FONT_SIZE": 1
+}
